@@ -1,0 +1,6 @@
+# Ignore VS Code folders
+.vscode/
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
